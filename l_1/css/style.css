@@ -1,0 +1,24 @@
+body {
+    font-size: 22px;
+    line-height: 34px;
+}
+
+header, nav {
+    background-color: #fd739c;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mainHeader{
+    margin:10px 0px ;
+}
+
+.firstHeader {
+    padding: 100px 0px;
+}
+.firstSection{
+    margin-top: 50px;
+}
+
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
