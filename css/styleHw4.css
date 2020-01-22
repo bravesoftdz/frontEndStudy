@@ -1,0 +1,36 @@
+html {
+    position: inherit;
+}
+
+.cardCollection {
+    font-family: Roboto;
+    color: #1D1D1D;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.card {
+   margin: 0.4%;
+   background:linen;    
+}
+
+.card:hover{
+    background:rgb(230, 178, 127);  
+}
+
+
+.cardHeader {
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.cardCategory {
+    font-size: 14px;
+    line-height: 21px;
+    color: #626262;
+}
+
+.cardDelivery {
+    font-size: 13px;
+    line-height: 21px;
+}
